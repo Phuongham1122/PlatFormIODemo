@@ -20,4 +20,6 @@ void loop() {
   delay(1000);
 }
 
+int a = 1, b = 2;
+
 // put function definitions here:
